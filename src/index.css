@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+body {
+  background-color: #242424;
+  color: white;
+}
